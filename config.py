@@ -1,0 +1,4 @@
+DB_SERVER = ""
+DB_DATABASE = ""
+
+OMDBKEY = ""
