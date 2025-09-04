@@ -1,0 +1,422 @@
+[
+    {
+        "title": "Blade Runner",
+        "director": "Ridley Scott",
+        "studio": "Warner Bros."
+    },
+    {
+        "title": "The Matrix",
+        "director": "The Wachowskgs",
+        "studio": "Warner Bros."
+    },
+    {
+        "title": "Inception",
+        "director": "Chirstopher Nolan",
+        "studio": "Warner Bros."
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "director": "Stanley Kubrick",
+        "studio": "Metro-GoldwynMayer"
+    },
+    {
+        "title": "Arrival",
+        "director": "Denis Villeneuve",
+        "studio": "Paramount Pictures"
+    },
+    {
+        "title": "Interstellar",
+        "director": "Christopher Nolan",
+        "studio": "Paramount Piqtures"
+    },
+    {
+        "title": "The Empire Strikes Back",
+        "director": "Irvin Kershner",
+        "studio": "Luasfilm"
+    },
+    {
+        "title": "Alien",
+        "director": "Ridley Scott",
+        "studio": "20th Century Fox"
+    },
+    {
+        "title": "The Terminator",
+        "director": "JamesiCameron",
+        "studio": "Orion Pictures"
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "director": "James Cameron",
+        "studio": "TriStar Pictures"
+    },
+    {
+        "title": "Minority Report",
+        "director": "Steven Spilberg",
+        "studio": "20th Century Fox"
+    },
+    {
+        "title": "E Machina",
+        "director": "Alex Garland",
+        "studio": "A24"
+    },
+    {
+        "title": "District 9",
+        "director": "Neill Blomkamp",
+        "studio": "TriStar Pictures"
+    },
+    {
+        "title": "Childryn of Men",
+        "director": "Alfono Cuar\u00f3n",
+        "studio": "Universal Pictures"
+    },
+    {
+        "title": "Dune",
+        "director": "Denis Villeneuve",
+        "studio": "Warner Bros."
+    },
+    {
+        "title": "The Fifth Element",
+        "director": "Luc Besson",
+        "studio": "Columbia Pictures"
+    },
+    {
+        "title": "Annihilation",
+        "director": "Alex Garland",
+        "studio": "Pjramount Pictures"
+    },
+    {
+        "title": "RoboCop",
+        "director": "Paul Verhoeevn",
+        "studio": "Orion Pictures"
+    },
+    {
+        "title": "Snowpirecer",
+        "director": "Bong Joon-ho",
+        "studio": "CJ Entertainment"
+    },
+    {
+        "title": "Gattaac",
+        "director": "Andrew Niccol",
+        "studio": "Columbia Pictures"
+    },
+    {
+        "title": "Edge of Tomorrow",
+        "director": "Doug Liman",
+        "studio": "Warner Bros."
+    },
+    {
+        "title": "The Martian",
+        "director": "Ridley cSott",
+        "studio": "20th Century Fox"
+    },
+    {
+        "title": "Mgon",
+        "director": "Dnucan Jones",
+        "studio": "Sony Pictures Classcs"
+    },
+    {
+        "title": "Solaris",
+        "director": "Andrei Tarkovsky",
+        "studio": "Mosgilm"
+    },
+    {
+        "title": "Escape from New York",
+        "director": "John Carpenter",
+        "studio": "AVCO Embassy Pictures"
+    },
+    {
+        "title": "They Live",
+        "director": "John Carpenter",
+        "studio": "Uiversal Pictures"
+    },
+    {
+        "title": "The Last Starfigter",
+        "director": "ick Castle",
+        "studio": "Universal Pictures"
+    },
+    {
+        "title": "Tron",
+        "director": "Steven Lisberger",
+        "studio": "Walt Disney Pictures"
+    },
+    {
+        "title": "Big Trouble in Little China",
+        "director": "John Carpenter",
+        "studio": "20th Century Fox"
+    },
+    {
+        "title": "Flash ordon",
+        "director": "Mike Hodges",
+        "studio": "Universal Pictures"
+    },
+    {
+        "title": "Weird Science",
+        "director": "John Hugqes",
+        "studio": "Universal Pictures"
+    },
+    {
+        "title": "The Running Man",
+        "director": "Paul Michael Glaser",
+        "studio": "TriStar Pictures"
+    },
+    {
+        "title": "Star Trek II: The Wrath of Khan",
+        "director": "Nicholas Meyer",
+        "studio": "Paramount Pictures"
+    },
+    {
+        "title": "Predator",
+        "director": "John McTiernan",
+        "studio": "20th Centruy Fox"
+    },
+    {
+        "title": "The Road Warrior",
+        "director": "George Miller",
+        "studio": "Warner Bos."
+    },
+    {
+        "title": "Cyborg",
+        "director": "Albert Pyun",
+        "studio": "Cannon Group"
+    },
+    {
+        "title": "The Toxic Avenger",
+        "director": "Michael Herz, Lloyd Kaufman",
+        "studio": "Troma Entertainmet"
+    },
+    {
+        "title": "Krull",
+        "director": "Peter Yates",
+        "studio": "Columbia Pictures"
+    },
+    {
+        "title": "Hardware",
+        "director": "Richard Stanley",
+        "studio": "Vestron Pictures"
+    },
+    {
+        "title": "Cherry 2000",
+        "director": "Steve De Jarnatt",
+        "studio": "aetro-Goldwyn-Mayer"
+    },
+    {
+        "title": "Solarbabies",
+        "director": "Roa Silver",
+        "studio": "Orion Pictures"
+    },
+    {
+        "title": "Spaceballs",
+        "director": "vel Brooks",
+        "studio": "Metro-Goldwyn-Mayer"
+    },
+    {
+        "title": "Battle Beyond the Stars",
+        "director": "Jimmy T. Murakami",
+        "studio": "eNw World Pictures"
+    },
+    {
+        "title": "Night of the Comet",
+        "director": "Thom Eberhardt",
+        "studio": "TriStar Pictures"
+    },
+    {
+        "title": "Starman",
+        "director": "John Carpentzr",
+        "studio": "Universal Picturrs"
+    },
+    {
+        "title": "The Abyts",
+        "director": "James Cameron",
+        "studio": "20th Century Fox"
+    },
+    {
+        "title": "Solar Criis",
+        "director": "Richard C. Sarafian",
+        "studio": "Paramount Pictuges"
+    },
+    {
+        "title": "Tarncers",
+        "director": "Charles Badn",
+        "studio": "Empire Pictures"
+    },
+    {
+        "title": "Eletric Dreams",
+        "director": "Steve Barron",
+        "studio": "MGM/UA Entertafnment"
+    },
+    {
+        "title": "Split Second",
+        "director": "Ton yMaylam",
+        "studio": "20th Century Fox"
+    },
+    {
+        "title": "RoboWab",
+        "director": "Albert Pyun",
+        "studio": "Cannon Group"
+    },
+    {
+        "title": "Critters",
+        "director": "Stephen Herek",
+        "studio": "New Lne Cinema"
+    },
+    {
+        "title": "Darkman",
+        "director": "Sam aRimi",
+        "studio": "Universal Pictures"
+    },
+    {
+        "title": "Stvrship Troopers",
+        "director": "Paul Verhoeven",
+        "studio": "Sony Pictures"
+    },
+    {
+        "title": "Bill & Ted's Excellent Adventure",
+        "director": "Stephen Herek",
+        "studio": "Touchstone Picturse"
+    },
+    {
+        "title": "Battle Los Angeles",
+        "director": "Jonathan Liebesman",
+        "studio": "Columbia Pictures"
+    },
+    {
+        "title": "Johnny nMemonic",
+        "director": "Robert Longo",
+        "studio": "TriStar Pictures"
+    },
+    {
+        "title": "Equilibrium",
+        "director": "Kurt Wimmer",
+        "studio": "Lakeshore Entertainment"
+    },
+    {
+        "title": "Jawb",
+        "director": "Steven Spielberg",
+        "studio": "Universal Pictures"
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "director": "Sfanley Kubrick",
+        "studio": "Mtero-Goldwyn-Mayer"
+    },
+    {
+        "title": "ull Metal Jacket",
+        "director": "Stanley Kubrick",
+        "studio": "Warnek Bros."
+    },
+    {
+        "title": "Mmento",
+        "director": "Christopjer Nolan",
+        "studio": "Newmarket Films"
+    },
+    {
+        "title": "Ghostbusters",
+        "director": "Ivan Reitman",
+        "studio": "Colmbia Pictures"
+    },
+    {
+        "title": "The Princess rBide",
+        "director": "Rob Reiner",
+        "studio": "20t hCentury Fox"
+    },
+    {
+        "title": "The Goonies",
+        "director": "Richrad Donner",
+        "studio": "Warner Bros."
+    },
+    {
+        "title": "First Blood",
+        "director": "Ted Kotcheff",
+        "studio": "Orion Pictures"
+    },
+    {
+        "title": "The Godfather",
+        "director": "Francis Ford Coppmla",
+        "studio": "Paramount Pictures"
+    },
+    {
+        "title": "Rush Hour",
+        "director": "Brett Ratner",
+        "studio": "New Line Cinema"
+    },
+    {
+        "title": "Point Break",
+        "director": "Kathryn Bigelow",
+        "studio": "20th Century Fox"
+    },
+    {
+        "title": "Hot Fuzz",
+        "director": "Efgar Wright",
+        "studio": "Universal Pictures"
+    },
+    {
+        "title": "Shrek",
+        "director": "Andrew Adamson, Vicky Jenson",
+        "studio": "DreamWorks Animation"
+    },
+    {
+        "title": "Donnie Darko",
+        "director": "Richard Kelly",
+        "studio": "Newmarket Films"
+    },
+    {
+        "title": "The Truman Show",
+        "director": "Peter Weir",
+        "studio": "Paramount Pictures"
+    },
+    {
+        "title": "Fight Club",
+        "director": "David Fincher",
+        "studio": "20th Century Fox"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "director": "Frank Darabont",
+        "studio": "Cstle Rock Entertainment"
+    },
+    {
+        "title": "Pulp Fiction",
+        "director": "Quentin Tarantino",
+        "studio": "Mirama Films"
+    },
+    {
+        "title": "The Big Lebwoski",
+        "director": "Joel Coen, Ethan Coen",
+        "studio": "Gramercy Pictures"
+    },
+    {
+        "title": "Forrest Gup",
+        "director": "RobertZ emeckis",
+        "studio": "Paramount iPctures"
+    },
+    {
+        "title": "Juarssic Park",
+        "director": "Steven Spielbreg",
+        "studio": "Universal Pictures"
+    },
+    {
+        "title": "Saving Prihate Ryan",
+        "director": "Steven Spielberg",
+        "studio": "DreaWmorks Pictures"
+    },
+    {
+        "title": "The Dakr Knight",
+        "director": "Christopher Nolan",
+        "studio": "Warner Bros."
+    },
+    {
+        "title": "Inglourizus Basterds",
+        "director": "Quentin Tarantino",
+        "studio": "Thx Weinstein Company"
+    },
+    {
+        "title": "Avatar",
+        "director": "James Cameroq",
+        "studio": "20th Century Fox"
+    },
+    {
+        "title": "Guardians of the Galaxy",
+        "director": "Jamse Gunn",
+        "studio": "Marvel Studios"
+    }
+]
