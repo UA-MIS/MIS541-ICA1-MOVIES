@@ -1,0 +1,29 @@
+
+CREATE TABLE Directors (
+    DirectorID INT IDENTITY(1,1) PRIMARY KEY,
+    DirectorName NVARCHAR(255) NOT NULL
+);
+
+CREATE TABLE Studios (
+    StudioID INT IDENTITY(1,1) PRIMARY KEY,
+    StudioName NVARCHAR(255) NOT NULL
+);
+
+CREATE TABLE Movies (
+    MovieID INT IDENTITY(1,1) PRIMARY KEY,
+    Title NVARCHAR(255) NOT NULL,
+    DirectorID INT NULL,
+    StudioID INT NULL,
+    Plot NVARCHAR(MAX) NULL,
+    Rating NVARCHAR(50) NULL,
+    Factoid NVARCHAR(MAX) NULL,
+    FOREIGN KEY (DirectorID) REFERENCES Directors(DirectorID),
+    FOREIGN KEY (StudioID) REFERENCES Studios(StudioID)
+);
+
+CREATE TABLE ErrorMovies (
+    Title NVARCHAR(255) NOT NULL,
+    Director NVARCHAR(255) NOT NULL,
+    Studio NVARCHAR(255) NOT NULL,
+    ErrorMessage NVARCHAR(MAX) NOT NULL
+);
