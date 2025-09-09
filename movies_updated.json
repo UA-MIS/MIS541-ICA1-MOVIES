@@ -2,421 +2,480 @@
     {
         "title": "Blade Runner",
         "director": "Ridley Scott",
-        "studio": "Warner Bros."
+        "studio": "Warner Bros.",
+        "Rotton Tomatoes Rating": "89%",
+        "Plot Description": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
+        "Factoid": "Blade Runner was one of the first movies to use extensive CGI effects combined with practical effects."
     },
     {
         "title": "The Matrix",
         "director": "The Wachowskgs",
-        "studio": "Warner Bros."
+        "studio": "Warner Bros.",
+        "Rotton Tomatoes Rating": "83%",
+        "Plot Description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+        "Factoid": "The Matrix popularized the 'bullet time' visual effect, which became iconic in action films."
     },
     {
         "title": "Inception",
         "director": "Chirstopher Nolan",
-        "studio": "Warner Bros."
+        "studio": "Warner Bros.",
+        "Rotton Tomatoes Rating": "87%",
+        "Plot Description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+        "Factoid": "Christopher Nolan used practical effects and real locations instead of relying heavily on CGI."
     },
     {
         "title": "2001: A Space Odyssey",
         "director": "Stanley Kubrick",
-        "studio": "Metro-GoldwynMayer"
+        "studio": "Metro-GoldwynMayer",
+        "Rotton Tomatoes Rating": "90%",
+        "Plot Description": "When a mysterious artifact is uncovered on the Moon, a spacecraft manned by two humans and one supercomputer is sent to Jupiter to find its origins.",
+        "Factoid": "Stanley Kubrick spent over two years making this film and pioneered many special effects techniques."
     },
     {
         "title": "Arrival",
         "director": "Denis Villeneuve",
-        "studio": "Paramount Pictures"
+        "studio": "Paramount Pictures",
+        "Rotton Tomatoes Rating": "94%",
+        "Plot Description": "Linguist Louise Banks leads a team of investigators when gigantic spaceships touch down around the world. As nations teeter on the verge of global war, Banks and her crew must find a way to communicate with the extraterrestrial vi...",
+        "Factoid": "The film's unique alien language was created by a professional linguist."
     },
     {
         "title": "Interstellar",
         "director": "Christopher Nolan",
-        "studio": "Paramount Piqtures"
+        "studio": "Paramount Piqtures",
+        "Rotton Tomatoes Rating": "73%",
+        "Plot Description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+        "Factoid": "The movie consulted physicist Kip Thorne to ensure scientifically accurate black hole visuals."
     },
     {
         "title": "The Empire Strikes Back",
         "director": "Irvin Kershner",
-        "studio": "Luasfilm"
+        "studio": "Luasfilm",
+        "Rotton Tomatoes Rating": "93%",
+        "Plot Description": "After the Empire overpowers the Rebel Alliance, Luke Skywalker begins training with Jedi Master Yoda, while Darth Vader and bounty hunter Boba Fett pursue his friends across the galaxy.",
+        "Factoid": "This sequel is often considered the best Star Wars film by fans and critics alike."
     },
     {
         "title": "Alien",
         "director": "Ridley Scott",
-        "studio": "20th Century Fox"
+        "studio": "20th Century Fox",
+        "Rotton Tomatoes Rating": "93%",
+        "Plot Description": "After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform.",
+        "Factoid": "The iconic alien design was created by artist H.R. Giger, blending biomechanical and surrealist art."
     },
     {
         "title": "The Terminator",
         "director": "JamesiCameron",
-        "studio": "Orion Pictures"
+        "studio": "Orion Pictures",
+        "Rotton Tomatoes Rating": "100%",
+        "Plot Description": "A cyborg assassin from the future attempts to find and kill a young woman who is destined to give birth to a warrior that will lead a resistance to save humankind from extinction.",
+        "Factoid": "James Cameron wrote the script in just a few days and the film launched Arnold Schwarzenegger's career."
     },
     {
         "title": "Terminator 2: Judgment Day",
         "director": "James Cameron",
-        "studio": "TriStar Pictures"
+        "studio": "TriStar Pictures",
+        "Rotton Tomatoes Rating": "91%",
+        "Plot Description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son John from an even more advanced and powerful cyborg.",
+        "Factoid": "This film featured groundbreaking CGI effects for the shape-shifting T-1000 character."
     },
     {
         "title": "Minority Report",
         "director": "Steven Spilberg",
-        "studio": "20th Century Fox"
-    },
-    {
-        "title": "E Machina",
-        "director": "Alex Garland",
-        "studio": "A24"
+        "studio": "20th Century Fox",
+        "Rotton Tomatoes Rating": "89%",
+        "Plot Description": "John works with the PreCrime police which stop crimes before they take place, with the help of three 'PreCogs' who can foresee crimes. Events ensue when John finds himself framed for a future murder.",
+        "Factoid": "The film's futuristic tech inspired real-world developments in gesture-based interfaces."
     },
     {
         "title": "District 9",
         "director": "Neill Blomkamp",
-        "studio": "TriStar Pictures"
-    },
-    {
-        "title": "Childryn of Men",
-        "director": "Alfono Cuar\u00f3n",
-        "studio": "Universal Pictures"
+        "studio": "TriStar Pictures",
+        "Rotton Tomatoes Rating": "90%",
+        "Plot Description": "In a future Earth in which aliens are isolated in a remote ghetto, a government agent finds himself banished there.",
+        "Factoid": "District 9 was filmed in South Africa and uses a documentary style to tell its story."
     },
     {
         "title": "Dune",
         "director": "Denis Villeneuve",
-        "studio": "Warner Bros."
+        "studio": "Warner Bros.",
+        "Rotton Tomatoes Rating": "36%",
+        "Plot Description": "A Duke's son leads desert warriors against the galactic emperor and his father's evil nemesis to free their desert world from the emperor's rule.",
+        "Factoid": "Denis Villeneuve's adaptation is praised for its scale and faithfulness to the original novel."
     },
     {
         "title": "The Fifth Element",
         "director": "Luc Besson",
-        "studio": "Columbia Pictures"
+        "studio": "Columbia Pictures",
+        "Rotton Tomatoes Rating": "72%",
+        "Plot Description": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
+        "Factoid": "The film features elaborate costumes designed by Jean-Paul Gaultier."
     },
     {
         "title": "Annihilation",
         "director": "Alex Garland",
-        "studio": "Pjramount Pictures"
+        "studio": "Pjramount Pictures",
+        "Rotton Tomatoes Rating": "88%",
+        "Plot Description": "A biologist signs up for a dangerous, secret expedition in which the laws of nature don't apply.",
+        "Factoid": "The movie explores complex themes of self-destruction and mutation in a visually striking way."
     },
     {
         "title": "RoboCop",
         "director": "Paul Verhoeevn",
-        "studio": "Orion Pictures"
-    },
-    {
-        "title": "Snowpirecer",
-        "director": "Bong Joon-ho",
-        "studio": "CJ Entertainment"
-    },
-    {
-        "title": "Gattaac",
-        "director": "Andrew Niccol",
-        "studio": "Columbia Pictures"
+        "studio": "Orion Pictures",
+        "Rotton Tomatoes Rating": "92%",
+        "Plot Description": "In a violent future in Old Detroit, murdered police officer Alex Murphy is resurrected as RoboCop, a powerful cyborg law enforcer. As he fights crime, he begins to recover memories of his past and seeks revenge on the gang who kil...",
+        "Factoid": "The film's satirical tone critiques corporate greed and media sensationalism."
     },
     {
         "title": "Edge of Tomorrow",
         "director": "Doug Liman",
-        "studio": "Warner Bros."
+        "studio": "Warner Bros.",
+        "Rotton Tomatoes Rating": "91%",
+        "Plot Description": "A man fighting in a war against aliens must relive the same day every time he dies until he can find a way to stop their power source with the help of an elite soldier.",
+        "Factoid": "The movie was inspired by the Japanese light novel 'All You Need Is Kill'."
     },
     {
         "title": "The Martian",
         "director": "Ridley cSott",
-        "studio": "20th Century Fox"
-    },
-    {
-        "title": "Mgon",
-        "director": "Dnucan Jones",
-        "studio": "Sony Pictures Classcs"
+        "studio": "20th Century Fox",
+        "Rotton Tomatoes Rating": "91%",
+        "Plot Description": "An astronaut becomes stranded on Mars after his team assumes him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive and can survive until a potential rescue.",
+        "Factoid": "NASA scientists praised the film for its scientific accuracy."
     },
     {
         "title": "Solaris",
         "director": "Andrei Tarkovsky",
-        "studio": "Mosgilm"
+        "studio": "Mosgilm",
+        "Rotton Tomatoes Rating": "92%",
+        "Plot Description": "A psychologist is sent to a station orbiting a distant planet in order to discover what has caused the crew to go insane.",
+        "Factoid": "Andrei Tarkovsky's Solaris is considered a landmark in philosophical sci-fi cinema."
     },
     {
         "title": "Escape from New York",
         "director": "John Carpenter",
-        "studio": "AVCO Embassy Pictures"
+        "studio": "AVCO Embassy Pictures",
+        "Rotton Tomatoes Rating": "86%",
+        "Plot Description": "In a dystopian 1997, a soldier-turned-bank robber is tasked with rescuing the U.S. President after he crashes into Manhattan, which has been turned into a giant maximum security prison.",
+        "Factoid": "The film popularized the concept of a dystopian, crime-ridden Manhattan island prison."
     },
     {
         "title": "They Live",
         "director": "John Carpenter",
-        "studio": "Uiversal Pictures"
-    },
-    {
-        "title": "The Last Starfigter",
-        "director": "ick Castle",
-        "studio": "Universal Pictures"
+        "studio": "Uiversal Pictures",
+        "Rotton Tomatoes Rating": "87%",
+        "Plot Description": "They influence our decisions without us knowing it. They numb our senses without us feeling it. They control our lives without us realizing it. They live.",
+        "Factoid": "Known for its social commentary and iconic fight scene, it's a cult classic."
     },
     {
         "title": "Tron",
         "director": "Steven Lisberger",
-        "studio": "Walt Disney Pictures"
+        "studio": "Walt Disney Pictures",
+        "Rotton Tomatoes Rating": "73%",
+        "Plot Description": "A computer hacker is abducted into a digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.",
+        "Factoid": "Tron was a pioneer in integrating computer-generated imagery into live-action films."
     },
     {
         "title": "Big Trouble in Little China",
         "director": "John Carpenter",
-        "studio": "20th Century Fox"
-    },
-    {
-        "title": "Flash ordon",
-        "director": "Mike Hodges",
-        "studio": "Universal Pictures"
+        "studio": "20th Century Fox",
+        "Rotton Tomatoes Rating": "73%",
+        "Plot Description": "A rough-and-tumble trucker and his sidekick face off with an ancient sorcerer in a supernatural battle beneath Chinatown.",
+        "Factoid": "John Carpenter blended martial arts, comedy, and fantasy in this cult favorite."
     },
     {
         "title": "Weird Science",
         "director": "John Hugqes",
-        "studio": "Universal Pictures"
+        "studio": "Universal Pictures",
+        "Rotton Tomatoes Rating": "60%",
+        "Plot Description": "Two high-school nerds use a computer program to literally create the perfect woman, who promptly turns their lives upside-down.",
+        "Factoid": "A 1980s teen sci-fi comedy classic that influenced many later works."
     },
     {
         "title": "The Running Man",
         "director": "Paul Michael Glaser",
-        "studio": "TriStar Pictures"
+        "studio": "TriStar Pictures",
+        "Rotton Tomatoes Rating": "67%",
+        "Plot Description": "In a future dystopian America, a wrongfully accused and convicted policeman gets his shot at freedom when he's forced to participate in a TV game show where convicts called Runners must battle killers for their freedom.",
+        "Factoid": "Based loosely on Stephen King's novel under his pseudonym Richard Bachman."
     },
     {
         "title": "Star Trek II: The Wrath of Khan",
         "director": "Nicholas Meyer",
-        "studio": "Paramount Pictures"
+        "studio": "Paramount Pictures",
+        "Rotton Tomatoes Rating": "87%",
+        "Plot Description": "With the assistance of the Enterprise crew, Admiral Kirk must stop an old nemesis, Khan Noonien Singh, from using the life-generating Genesis Device as the ultimate weapon.",
+        "Factoid": "Considered the best Star Trek film and introduced the iconic character Khan."
     },
     {
         "title": "Predator",
         "director": "John McTiernan",
-        "studio": "20th Centruy Fox"
+        "studio": "20th Centruy Fox",
+        "Rotton Tomatoes Rating": "80%",
+        "Plot Description": "A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.",
+        "Factoid": "Arnold Schwarzenegger starred in this sci-fi/action hit featuring an alien hunter."
     },
     {
         "title": "The Road Warrior",
         "director": "George Miller",
-        "studio": "Warner Bos."
+        "studio": "Warner Bos.",
+        "Rotton Tomatoes Rating": "93%",
+        "Plot Description": "In the post-apocalyptic Australian wasteland, a cynical drifter agrees to help a small, gasoline-rich community get rid of a horde of bandits."
     },
     {
         "title": "Cyborg",
         "director": "Albert Pyun",
-        "studio": "Cannon Group"
+        "studio": "Cannon Group",
+        "Rotton Tomatoes Rating": "22%",
+        "Plot Description": "A martial artist hunts a killer in a plague-infested urban dump of the future.",
+        "Factoid": "A low-budget cult classic from Cannon Films starring Jean-Claude Van Damme."
     },
     {
         "title": "The Toxic Avenger",
         "director": "Michael Herz, Lloyd Kaufman",
-        "studio": "Troma Entertainmet"
+        "studio": "Troma Entertainmet",
+        "Rotton Tomatoes Rating": "70%",
+        "Plot Description": "Tromaville has a monstrous new hero. The Toxic Avenger is born when meek mop boy Melvin falls into a vat of toxic waste. Now evildoers will have a lot to lose.",
+        "Factoid": "An infamous cult movie from Troma Entertainment blending horror and comedy."
     },
     {
         "title": "Krull",
         "director": "Peter Yates",
-        "studio": "Columbia Pictures"
+        "studio": "Columbia Pictures",
+        "Rotton Tomatoes Rating": null,
+        "Plot Description": "A prince and a fellowship of companions set out to rescue his bride from a fortress of alien invaders who have arrived on their home planet, Krull.",
+        "Factoid": "Known for its blend of fantasy and sci-fi elements with unique weapons."
     },
     {
         "title": "Hardware",
         "director": "Richard Stanley",
-        "studio": "Vestron Pictures"
+        "studio": "Vestron Pictures",
+        "Rotton Tomatoes Rating": "46%",
+        "Plot Description": "The head of a cyborg reactivates, rebuilds itself, and goes on a violent rampage in a space marine's girlfriend's apartment.",
+        "Factoid": "A British post-apocalyptic sci-fi cult film with strong punk influences."
     },
     {
         "title": "Cherry 2000",
         "director": "Steve De Jarnatt",
-        "studio": "aetro-Goldwyn-Mayer"
+        "studio": "aetro-Goldwyn-Mayer",
+        "Rotton Tomatoes Rating": "36%",
+        "Plot Description": "In 2017, a successful businessman travels to the ends of the earth to find that the perfect woman is always under his nose. He hires a sexy renegade tracker to find an exact duplicate of his android wife.",
+        "Factoid": "A lesser-known cult film blending sci-fi and romance from the 1980s."
     },
     {
         "title": "Solarbabies",
         "director": "Roa Silver",
-        "studio": "Orion Pictures"
+        "studio": "Orion Pictures",
+        "Rotton Tomatoes Rating": "0%",
+        "Plot Description": "In a post-apocalyptic future ruled by the military, a group of renegade teenage orphans find a legendary orb, Bohdai, that can supposedly bring the rain back to dried up Earth.",
+        "Factoid": "A post-apocalyptic teen sci-fi with environmental themes and mixed reviews."
     },
     {
         "title": "Spaceballs",
         "director": "vel Brooks",
-        "studio": "Metro-Goldwyn-Mayer"
+        "studio": "Metro-Goldwyn-Mayer",
+        "Rotton Tomatoes Rating": "52%",
+        "Plot Description": "A star-pilot for hire and his trusty sidekick must come to the rescue of a princess and save Planet Druidia from the clutches of the evil Spaceballs.",
+        "Factoid": "A Mel Brooks comedy parodying Star Wars and other sci-fi franchises."
     },
     {
         "title": "Battle Beyond the Stars",
         "director": "Jimmy T. Murakami",
-        "studio": "eNw World Pictures"
+        "studio": "eNw World Pictures",
+        "Rotton Tomatoes Rating": "54%",
+        "Plot Description": "A farm boy recruits a band of outlaws to save the planet Akir from dark forces that threaten to wipe them out from the face of the universe. A battle stretching beyond the stars begins here.",
+        "Factoid": "A sci-fi space opera inspired by The Magnificent Seven."
     },
     {
         "title": "Night of the Comet",
         "director": "Thom Eberhardt",
-        "studio": "TriStar Pictures"
+        "studio": "TriStar Pictures",
+        "Rotton Tomatoes Rating": "79%",
+        "Plot Description": "A comet wipes out most of life on Earth, leaving two Valley Girls fighting against cannibal zombies and a sinister group of scientists.",
+        "Factoid": "A cult classic blending sci-fi and teen horror from the 1980s."
     },
     {
         "title": "Starman",
         "director": "John Carpentzr",
-        "studio": "Universal Picturrs"
-    },
-    {
-        "title": "The Abyts",
-        "director": "James Cameron",
-        "studio": "20th Century Fox"
-    },
-    {
-        "title": "Solar Criis",
-        "director": "Richard C. Sarafian",
-        "studio": "Paramount Pictuges"
-    },
-    {
-        "title": "Tarncers",
-        "director": "Charles Badn",
-        "studio": "Empire Pictures"
-    },
-    {
-        "title": "Eletric Dreams",
-        "director": "Steve Barron",
-        "studio": "MGM/UA Entertafnment"
+        "studio": "Universal Picturrs",
+        "Rotton Tomatoes Rating": "83%",
+        "Plot Description": "An alien takes the form of a young Wisconsin widow's husband and makes her drive him to his departure point in Arizona. Distrustful government agents, along with a more ambivalent scientist, give pursuit in hopes of intercepting t...",
+        "Factoid": "Jeff Bridges starred in this sci-fi romance about an alien visitor."
     },
     {
         "title": "Split Second",
         "director": "Ton yMaylam",
-        "studio": "20th Century Fox"
-    },
-    {
-        "title": "RoboWab",
-        "director": "Albert Pyun",
-        "studio": "Cannon Group"
+        "studio": "20th Century Fox",
+        "Rotton Tomatoes Rating": null,
+        "Plot Description": "In a flooded future London, Detective Harley Stone hunts a serial killer who murdered his partner, and has haunted him ever since. He soon discovers what he is hunting might not be human.",
+        "Factoid": "A British sci-fi action film set in a flooded London."
     },
     {
         "title": "Critters",
         "director": "Stephen Herek",
-        "studio": "New Lne Cinema"
+        "studio": "New Lne Cinema",
+        "Rotton Tomatoes Rating": "52%",
+        "Plot Description": "A group of small but vicious alien creatures called Crites escape from an alien prison transport vessel and land near a small farm town on earth, pursued by two shape-shifting bounty hunters.",
+        "Factoid": "A fun low-budget sci-fi/horror creature feature."
     },
     {
         "title": "Darkman",
         "director": "Sam aRimi",
-        "studio": "Universal Pictures"
-    },
-    {
-        "title": "Stvrship Troopers",
-        "director": "Paul Verhoeven",
-        "studio": "Sony Pictures"
+        "studio": "Universal Pictures",
+        "Rotton Tomatoes Rating": "81%",
+        "Plot Description": "A brilliant scientist left for dead returns to exact revenge on the people who burned him alive.",
+        "Factoid": "Sam Raimi's superhero film known for its stylistic visuals and makeup effects."
     },
     {
         "title": "Bill & Ted's Excellent Adventure",
         "director": "Stephen Herek",
-        "studio": "Touchstone Picturse"
+        "studio": "Touchstone Picturse",
+        "Rotton Tomatoes Rating": "83%",
+        "Plot Description": "Two rock-'n-rolling teens, on the verge of failing their class, set out on a quest to make the ultimate school history report after being presented with a time machine.",
+        "Factoid": "The film popularized time travel comedy in the late 80s."
     },
     {
         "title": "Battle Los Angeles",
         "director": "Jonathan Liebesman",
-        "studio": "Columbia Pictures"
-    },
-    {
-        "title": "Johnny nMemonic",
-        "director": "Robert Longo",
-        "studio": "TriStar Pictures"
+        "studio": "Columbia Pictures",
+        "Rotton Tomatoes Rating": "37%",
+        "Plot Description": "A squad of U.S. Marines becomes the last line of defense against a global invasion.",
+        "Factoid": "A military sci-fi film portraying a large-scale alien invasion of Earth."
     },
     {
         "title": "Equilibrium",
         "director": "Kurt Wimmer",
-        "studio": "Lakeshore Entertainment"
-    },
-    {
-        "title": "Jawb",
-        "director": "Steven Spielberg",
-        "studio": "Universal Pictures"
+        "studio": "Lakeshore Entertainment",
+        "Rotton Tomatoes Rating": "39%",
+        "Plot Description": "In an oppressive future where all forms of feeling are illegal, a man in charge of enforcing the law rises to overthrow the system and state.",
+        "Factoid": "Known for its 'gun kata' martial arts sequences."
     },
     {
         "title": "2001: A Space Odyssey",
         "director": "Sfanley Kubrick",
-        "studio": "Mtero-Goldwyn-Mayer"
-    },
-    {
-        "title": "ull Metal Jacket",
-        "director": "Stanley Kubrick",
-        "studio": "Warnek Bros."
-    },
-    {
-        "title": "Mmento",
-        "director": "Christopjer Nolan",
-        "studio": "Newmarket Films"
+        "studio": "Mtero-Goldwyn-Mayer",
+        "Rotton Tomatoes Rating": "90%",
+        "Plot Description": "When a mysterious artifact is uncovered on the Moon, a spacecraft manned by two humans and one supercomputer is sent to Jupiter to find its origins.",
+        "Factoid": "Stanley Kubrick spent over two years making this film and pioneered many special effects techniques."
     },
     {
         "title": "Ghostbusters",
         "director": "Ivan Reitman",
-        "studio": "Colmbia Pictures"
-    },
-    {
-        "title": "The Princess rBide",
-        "director": "Rob Reiner",
-        "studio": "20t hCentury Fox"
+        "studio": "Colmbia Pictures",
+        "Rotton Tomatoes Rating": "95%",
+        "Plot Description": "Three parapsychologists forced out of their university funding set up shop as a unique ghost removal service in New York City, attracting frightened yet skeptical customers.",
+        "Factoid": "The film's theme song became a top 10 hit and is still widely recognized."
     },
     {
         "title": "The Goonies",
         "director": "Richrad Donner",
-        "studio": "Warner Bros."
+        "studio": "Warner Bros.",
+        "Rotton Tomatoes Rating": "77%",
+        "Plot Description": "A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure.",
+        "Factoid": "Steven Spielberg was executive producer, giving it a distinct adventure feel."
     },
     {
         "title": "First Blood",
         "director": "Ted Kotcheff",
-        "studio": "Orion Pictures"
+        "studio": "Orion Pictures",
+        "Rotton Tomatoes Rating": "86%",
+        "Plot Description": "A veteran Green Beret is forced by a cruel Sheriff and his deputies to flee into the mountains and wage an escalating one-man war against his pursuers.",
+        "Factoid": "The film launched the Rambo franchise starring Sylvester Stallone."
     },
     {
         "title": "The Godfather",
         "director": "Francis Ford Coppmla",
-        "studio": "Paramount Pictures"
+        "studio": "Paramount Pictures",
+        "Rotton Tomatoes Rating": "97%",
+        "Plot Description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "Factoid": "Regarded as one of the greatest films ever made, it won 3 Oscars."
     },
     {
         "title": "Rush Hour",
         "director": "Brett Ratner",
-        "studio": "New Line Cinema"
+        "studio": "New Line Cinema",
+        "Rotton Tomatoes Rating": "61%",
+        "Plot Description": "A loyal and dedicated Hong Kong Inspector teams up with a reckless and loudmouthed L.A.P.D. detective to rescue the Chinese Consul's kidnapped daughter, while trying to arrest a dangerous crime lord along the way.",
+        "Factoid": "This buddy cop film paired Jackie Chan and Chris Tucker to great effect."
     },
     {
         "title": "Point Break",
         "director": "Kathryn Bigelow",
-        "studio": "20th Century Fox"
+        "studio": "20th Century Fox",
+        "Rotton Tomatoes Rating": "70%",
+        "Plot Description": "An F.B.I. Agent goes undercover to catch a gang of surfers who may be bank robbers.",
+        "Factoid": "Known for its surfing and skydiving stunts."
     },
     {
         "title": "Hot Fuzz",
         "director": "Efgar Wright",
-        "studio": "Universal Pictures"
+        "studio": "Universal Pictures",
+        "Rotton Tomatoes Rating": "91%",
+        "Plot Description": "An overachieving London police sergeant is transferred to a village where the easygoing officers object to his fervor for regulations, all while a string of grisly murders strikes the town.",
+        "Factoid": "A British action-comedy satire that's part of the Cornetto Trilogy."
     },
     {
         "title": "Shrek",
         "director": "Andrew Adamson, Vicky Jenson",
-        "studio": "DreamWorks Animation"
+        "studio": "DreamWorks Animation",
+        "Rotton Tomatoes Rating": "88%",
+        "Plot Description": "A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.",
+        "Factoid": "The first film to win the Academy Award for Best Animated Feature."
     },
     {
         "title": "Donnie Darko",
         "director": "Richard Kelly",
-        "studio": "Newmarket Films"
+        "studio": "Newmarket Films",
+        "Rotton Tomatoes Rating": "88%",
+        "Plot Description": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes.",
+        "Factoid": "A cult classic known for its complex narrative involving time travel."
     },
     {
         "title": "The Truman Show",
         "director": "Peter Weir",
-        "studio": "Paramount Pictures"
+        "studio": "Paramount Pictures",
+        "Rotton Tomatoes Rating": "94%",
+        "Plot Description": "An insurance salesman begins to suspect that his whole life is actually some sort of reality TV show.",
+        "Factoid": "The film predicted the rise of reality TV before it became mainstream."
     },
     {
         "title": "Fight Club",
         "director": "David Fincher",
-        "studio": "20th Century Fox"
+        "studio": "20th Century Fox",
+        "Rotton Tomatoes Rating": "81%",
+        "Plot Description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+        "Factoid": "Its satirical take on consumer culture became hugely influential."
     },
     {
         "title": "The Shawshank Redemption",
         "director": "Frank Darabont",
-        "studio": "Cstle Rock Entertainment"
+        "studio": "Cstle Rock Entertainment",
+        "Rotton Tomatoes Rating": "89%",
+        "Plot Description": "A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.",
+        "Factoid": "Although not a huge box office hit initially, it became one of the most beloved films ever."
     },
     {
         "title": "Pulp Fiction",
         "director": "Quentin Tarantino",
-        "studio": "Mirama Films"
-    },
-    {
-        "title": "The Big Lebwoski",
-        "director": "Joel Coen, Ethan Coen",
-        "studio": "Gramercy Pictures"
-    },
-    {
-        "title": "Forrest Gup",
-        "director": "RobertZ emeckis",
-        "studio": "Paramount iPctures"
-    },
-    {
-        "title": "Juarssic Park",
-        "director": "Steven Spielbreg",
-        "studio": "Universal Pictures"
-    },
-    {
-        "title": "Saving Prihate Ryan",
-        "director": "Steven Spielberg",
-        "studio": "DreaWmorks Pictures"
-    },
-    {
-        "title": "The Dakr Knight",
-        "director": "Christopher Nolan",
-        "studio": "Warner Bros."
-    },
-    {
-        "title": "Inglourizus Basterds",
-        "director": "Quentin Tarantino",
-        "studio": "Thx Weinstein Company"
+        "studio": "Mirama Films",
+        "Rotton Tomatoes Rating": "92%",
+        "Plot Description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "Factoid": "Quentin Tarantino's influential film revitalized indie cinema in the 1990s."
     },
     {
         "title": "Avatar",
         "director": "James Cameroq",
-        "studio": "20th Century Fox"
+        "studio": "20th Century Fox",
+        "Rotton Tomatoes Rating": "81%",
+        "Plot Description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+        "Factoid": "Became the highest-grossing film worldwide until surpassed by Avengers: Endgame."
     },
     {
         "title": "Guardians of the Galaxy",
         "director": "Jamse Gunn",
-        "studio": "Marvel Studios"
+        "studio": "Marvel Studios",
+        "Rotton Tomatoes Rating": "92%",
+        "Plot Description": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+        "Factoid": "Known for its 70s and 80s soundtrack and humor in the Marvel Cinematic Universe."
     }
 ]
