@@ -42,31 +42,20 @@ def normalize_org(name: str | None):
         return None
     return " ".join(name.split())
 
-# !! Factoid loader (Excel -> dict[normalized_title] = factoid) !!
-# !! Factoid loader (Excel -> dict[normalized_title_lower] = factoid) !!
-def load_factoid_map(excel_path: str = "movieDetails.xlsx", sheet_name=0):
+# !! Factoid loader (CSV -> dict[normalized_title_lower] = factoid) !!
+def load_factoid_map(csv_path: str = "movieDetails.csv"):
     """
-    Reads Excel and returns {lowercased_title: factoid}.
-    Accepts column headers (any case): Title/Film/Movie and Factoid/Factoids.
-    Forces first sheet by default for older Pandas behavior, but
-    will also handle dict-of-sheets if returned.
+    Reads CSV and returns {lowercased_title: factoid}.
+    Accepts headers (any case): Title/Film/Movie and Factoid/Factoids.
     """
-    df = pd.read_excel(excel_path, sheet_name=sheet_name)
-
-    # If Pandas gave us a dict (rare with sheet_name=0, but safe-guard anyway)
-    if isinstance(df, dict):
-        # take the first sheet with columns
-        for _name, _df in df.items():
-            if hasattr(_df, "columns"):
-                df = _df
-                break
-
+    # encoding='utf-8-sig' handles Excel-exported CSVs that include a BOM
+    df = pd.read_csv(csv_path, encoding="utf-8-sig", sep=",")
     cols = {str(c).strip().lower(): c for c in df.columns}
 
     title_col = next((cols[c] for c in ("title", "film", "movie") if c in cols), None)
     fact_col  = next((cols[c] for c in ("factoid", "factoids") if c in cols), None)
     if not title_col or not fact_col:
-        raise ValueError("Excel must have Title (or Film/Movie) and Factoid column headers.")
+        raise ValueError("CSV must have Title (or Film/Movie) and Factoid column headers.")
 
     df = df[[title_col, fact_col]].dropna(subset=[title_col])
 
@@ -107,8 +96,8 @@ def main():
     with open("movies.json", "r", encoding="utf-8") as f:
         movies = json.load(f)
 
-    # !! Load Excel factoids once
-    factoid_map = load_factoid_map(excel_path="movieDetails.xlsx", sheet_name=None)
+    # !! Load csv factoids
+    factoid_map = load_factoid_map(csv_path="movieDetails.csv")
 
     results = []
 
