@@ -1,0 +1,8 @@
+SELECT TOP (1000) [MovieID]
+      ,[Title]
+      ,[Plot]
+      ,[Factoid]
+      ,[DirectorID]
+      ,[StudioID]
+      ,[RottenTomatoes]
+  FROM [541-Movie-Database].[dbo].[Movies]
