@@ -103,9 +103,15 @@ def main():
         print("movies.json not found!")
         return
 
-    df = pd.DataFrame(columns=["Title", "Director", "Studio", "Plot", "Rating"])
+    # Load CSV data as a DataFrame for fallback/enrichment
+    try:
+        csv_df = pd.read_csv("movieDetails.csv")
+    except FileNotFoundError:
+        print("movieDetails.csv not found!")
+        csv_df = pd.DataFrame()
 
-    # Loop through each movie
+    df = pd.DataFrame(columns=["Title", "Director", "Studio", "Plot", "Rating", "Factoid", "Budget", "BoxOffice", "RTScore"])
+
     for movie in movies:
         title = movie.get("title")
         director = movie.get("director")
@@ -115,21 +121,52 @@ def main():
             continue
 
         data = fetch_movie_data(title)
+        plot = ""
+        rating = None
+        factoid = None
+        budget = None
+        boxoffice = None
+        rtscore = None
+
         if data:
             plot = data.get("Plot", "")
             rating = get_rotten_tomatoes_rating(data)
 
-            if rating is None:
+        # If OMDB rating is missing, try to get from CSV
+        if rating is None and not csv_df.empty:
+            csv_row = csv_df[csv_df["Title"].str.lower() == title.lower()]
+            if not csv_row.empty:
+                rtscore = csv_row.iloc[0].get("Rotten Tomatoes Score")
+                rating = f"{rtscore}%" if pd.notnull(rtscore) else None
+                factoid = csv_row.iloc[0].get("Factoid")
+                budget = csv_row.iloc[0].get("Budget (Millions)")
+                boxoffice = csv_row.iloc[0].get("Box Office Earnings (Millions)")
+            else:
                 log_error_movie(title, director, studio, "Null rating (possibly misspelled title)")
-                continue  
+                continue
+        elif data:
+            # Enrich with CSV if available
+            if not csv_df.empty:
+                csv_row = csv_df[csv_df["Title"].str.lower() == title.lower()]
+                if not csv_row.empty:
+                    factoid = csv_row.iloc[0].get("Factoid")
+                    budget = csv_row.iloc[0].get("Budget (Millions)")
+                    boxoffice = csv_row.iloc[0].get("Box Office Earnings (Millions)")
+                    rtscore = csv_row.iloc[0].get("Rotten Tomatoes Score")
 
-            movie_obj = Movie(title, director, studio, plot, rating)
-            df.loc[len(df)] = [movie_obj.title, movie_obj.director, movie_obj.studio, movie_obj.plot, movie_obj.rating]
-            print(f"Created Movie object: {movie_obj}")
         else:
             log_error_movie(title, director, studio, "Movie not found in OMDB")
+            continue
+
+        movie_obj = Movie(title, director, studio, plot, rating)
+        df.loc[len(df)] = [
+            movie_obj.title, movie_obj.director, movie_obj.studio, movie_obj.plot, movie_obj.rating,
+            factoid, budget, boxoffice, rtscore
+        ]
+        print(f"Created Movie object: {movie_obj}")
+
         time.sleep(1)
- 
+
     print("\nFinal DataFrame:")
     print(df)
 
