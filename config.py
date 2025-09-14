@@ -5,5 +5,5 @@ OMDBKEY = "b956ce"
 
 USERNAME = "root"
 PASSWORD = "cherry"
-DB = "541"
+DB = "class541"
 
